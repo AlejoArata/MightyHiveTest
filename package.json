@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "reconnecting-websocket": "^4.4.0",
+    "ws": "^7.4.4"
+  }
+}
