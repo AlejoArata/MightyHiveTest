@@ -18,7 +18,7 @@
  3. Run `node index.js`
 #### REST Endpoint
 1. Open any web browser you prefer.
-2. Go to http://localhost:3000/api/keyValuePair/{key to search} 
+2. Go to http://localhost:3000/api/keyValuePair/ + "key to search" 
 e.g. http://localhost:3000/api/keyValuePair/brand
 ## Comments
 
