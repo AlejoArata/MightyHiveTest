@@ -25,6 +25,6 @@
 #### Key-Value Parameters
 I added to the server functionality the ability to receive a JSON with more than 1 key-value pair.
 #### Folder Structure
-I made the folder structure a little bit more elaborated than needed for this test on purpose. This way debugging is a lot easier. Also, this structure allows to organize folders better in the case of functional growth of the server.
+I made the folder structure a little bit more elaborated than needed for this test on purpose. This way debugging is a lot easier. Also, this structure allows to organize folders better in the case of a functional growth of the server.
 #### Automated Testing
 Personally, i have never worked with automated testing in projects before, so I'm looking forward to learn it!
